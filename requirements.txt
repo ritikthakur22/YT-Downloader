@@ -1,0 +1,3 @@
+# Python dependencies for YT-Downloader
+# yt-dlp is frequently updated to keep up with YouTube changes
+yt-dlp>=2023.7.6
